@@ -96,7 +96,7 @@ a {
     /* Placeholder gradient until image is loaded */
     /* background: linear-gradient(135deg, #fdfcf8 0%, #e3e8e1 100%); */
     overflow: hidden;
-    background-image: url(src/pandaTop.png);
+    background-image: url(images/pandaTop.png);
     background-position: left;
     background-repeat: no-repeat;
     background-size: 50%;
